@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @Yuhan-Chang
-- 👀 I’m interested in full stack development
-- 🌱 I’m currently learning react
-- 💞️ I’m looking to collaborate on any open sources projects!
-- 📫 How to reach me hannahchang2000@gmail.com
+- 👋 Hi there, I’m Yuhan(Hannah)! I came from China, and I am a college computer science student at @UCSD
+- 👀 I’m interested in (pretty much) everything about software
+- 🌴 Currently I use python, Flask and Linux a lot, I also know Java, Android development, Front-end, and etc
+- 💞️ I’m looking to collaborate on any open sources projects and I am interested in any internship opportunities!
+- 🌲 Here's the link to my resume: 
+- 📫 Please shoot me an email if you want to hang out!! hannahchang2000@gmail.com
 
 <!---
 Yuhan-Chang-0915/Yuhan-Chang-0915 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

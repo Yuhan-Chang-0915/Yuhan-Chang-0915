@@ -1,4 +1,4 @@
-- 👋 Hi there, I’m Yuhan(Hannah)! I came from China, and I am a college computer science student at @UCSD
+- 👋 Hi there, I’m Yuhan(Hannah)! I came from China, and I am a college computer science student @UCSD and I am a Software Engineer Intern @AMD
 - 👀 I’m interested in (pretty much) everything about software
 - 🌴 Currently I use python, Flask and Linux a lot, I also know Java, Android development, Front-end, and etc
 - 💞️ I’m looking to collaborate on any open sources projects and I am interested in any internship opportunities!
